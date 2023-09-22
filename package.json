@@ -1,6 +1,6 @@
 {
-  "name": "caledienui",
-  "version": "1.0.0",
+  "name": "caledien",
+  "version": "1.0.1",
   "description": "Made with create-react-library",
   "author": "cagrierdemm",
   "license": "MIT",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
