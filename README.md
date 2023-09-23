@@ -6,8 +6,11 @@
 
 ## Preview
 
-![NPM](example/public/r1.jpg)
-![NPM](example/public/r2.jpg)
+![Preview](example/public/r1.jpg)
+
+## Usage
+
+![Usage](example/public/r2.jpg)
 
 ## Install
 

@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { Button, DownloadButton, CancelButton } from 'caledienui'
-import 'caledienui/dist/index.css'
+import { Button, DownloadButton, CancelButton } from 'caledien'
+import 'caledien/dist/index.css'
 
 const App = () => {
   return (
