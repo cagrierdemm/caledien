@@ -1,9 +1,183 @@
 /* add css module styles here (optional) */
 
-.test {
-  margin: 2em;
-  padding: 0.5em;
-  border: 2px solid #000;
-  font-size: 2em;
+.blue {
+  background-color: #3498DB;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.blue:hover{
+  background-color: rgb(45, 123, 190);
+  transition: 0.5s ease; 
+}
+
+.white{
+  color: black;
+  width: 140px;
+  border: 0;
+  height: 40px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+  
+}
+
+.white:hover{
+  background-color: rgb(214, 214, 214);
+  border: 0;
+  transition: 0.5s ease; 
+}
+
+.black{
+  background-color: rgb(20, 20, 20);
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.black:hover{
+  background-color: rgb(48, 48, 48);
+  transition: 0.5s ease; 
+}
+
+.yellow{
+  background-color: #FFD700;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.yellow:hover{
+  background-color: rgb(224, 162, 15);
+  transition: 0.5s ease; 
+}
+
+.red{
+  background-color: #FF4500;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.red:hover{
+  background-color: #D32F2F;
+  transition: 0.5s ease; 
+}
+
+.green{
+  background-color: #32CD32;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.green:hover{
+  background-color: #228B22;
+  transition: 0.5s ease; 
+}
+
+.purple{
+  background-color: #9932CC;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease; 
+}
+
+.purple:hover{
+  background-color: #DA70D6;
+  transition: 0.5s ease; 
+}
+
+
+.dashed {
+  color: black;
+  width: 140px;
+  height: 40px;
+  border-radius: 20px;
+  border: 1px gray dashed;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.dashed:hover{
+  background-color: rgb(214, 214, 214);
+  transition: 0.5s ease; 
+}
+
+.text {
+  background-color: transparent;
+  border: none;
+  color: black;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  cursor: pointer;
+}
+
+.link{
+  background-color: transparent;
+  border: none;
+  color: #3498DB;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  cursor: pointer;
+}
+
+.download{
+  background-color: #32CD32;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease;
+}
+
+.download:hover{
+  background-color: #228B22;
+  transition: 0.5s ease; 
+}
+
+.cancel{
+  background-color: #D32F2F;
+  color: white;
+  width: 140px;
+  height: 40px;
+  border: 0;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.5s ease;
   text-align: center;
+}
+
+.cancel:hover{
+  background-color: #ad2121;
+  transition: 0.5s ease; 
 }
