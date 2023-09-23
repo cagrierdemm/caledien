@@ -1,8 +1,8 @@
-# caledienui
+# caledien
 
-> Made with create-react-library
+> A simple button library
 
-[![NPM](https://img.shields.io/npm/v/caledienui.svg)](https://www.npmjs.com/package/caledienui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/caledien.svg)](https://www.npmjs.com/package/caledien) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Preview
 
